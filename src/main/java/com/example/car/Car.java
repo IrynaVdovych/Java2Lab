@@ -13,8 +13,9 @@ public class Car {
     private int price;
     private String reg_number;
 
-
     /**
+     * simple constructor of the class car
+     *
      * @param id identificator of element
      */
     public Car(int id) {
@@ -22,7 +23,9 @@ public class Car {
     }
 
     /**
-     * @param id identificator of element
+     * full constructor of the class car
+     *
+     * @param id identification of element
      * @param model name of the car model
      * @param year year of car issue
      * @param price market price of car
@@ -41,7 +44,7 @@ public class Car {
         return model;
     }
 
-    //метод встановлює занчення поля model
+    //метод встановлює значення поля model
     public void setModel(String model) {
         this.model = model;
     }
@@ -51,7 +54,7 @@ public class Car {
         return year;
     }
 
-    //метод встановлює занчення поля year
+    //метод встановлює значення поля year
     public void setYear(int year) {
         this.year = year;
     }
@@ -60,7 +63,7 @@ public class Car {
     public int getPrice() {
         return price;
     }
-    //метод встановлює занчення поля price
+    //метод встановлює значення поля price
     public void setPrice(int price) {
         this.price = price;
     }
@@ -70,7 +73,7 @@ public class Car {
         return reg_number;
     }
 
-    //метод встановлює занчення поля reg_number
+    //метод встановлює значення поля reg_number
     public void setReg_number(String reg_number) {
         this.reg_number = reg_number;
     }
@@ -87,6 +90,8 @@ public class Car {
     }
 
     /**
+     * method returns age of the car
+     * 
      * @return age of car
      */
     //метод повертає розрахунковий вік автомобіля

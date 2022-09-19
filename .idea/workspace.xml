@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="38cc5c79-6a20-475c-a958-4f0a9c0128c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaLab2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/car/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/example/lab2/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/car/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/lab2/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/lab2/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +40,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/car" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/example/lab2" />
+      <recent name="$PROJECT_DIR$/src/com/example/car" />
+      <recent name="$PROJECT_DIR$/src/com/example/lab2" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,7 +67,13 @@
       <workItem from="1662324682923" duration="630000" />
       <workItem from="1662570067412" duration="1558000" />
       <workItem from="1662656918993" duration="78000" />
-      <workItem from="1662658428890" duration="671000" />
+      <workItem from="1662658428890" duration="7706000" />
+      <workItem from="1662820729807" duration="5937000" />
+      <workItem from="1663345532792" duration="6993000" />
+      <workItem from="1663440001978" duration="2000" />
+      <workItem from="1663441178608" duration="199000" />
+      <workItem from="1663578625178" duration="119000" />
+      <workItem from="1663604091579" duration="3115000" />
     </task>
     <servers />
   </component>
